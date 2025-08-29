@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'carlossalesbram/ecommerce',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '65e9de08ffa2d9f2ce81570940d44161af5c9747',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'carlossalesbram/ecommerce' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '65e9de08ffa2d9f2ce81570940d44161af5c9747',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
